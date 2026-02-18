@@ -9,8 +9,7 @@ End the program.
 
 
 
-Pseudocode
-
+✔Pseudocode
 
 START
     INPUT age
@@ -21,7 +20,7 @@ START
     ENDIF
 END
 
-<img src herf= "Exercise-1.png">
+!my diagram: ("Exercise-1.png")
 
 
 Exercise 2
@@ -33,7 +32,7 @@ A program takes student marks (0–100).
 Below 50 → Fail
 
 
-✔ Pseudocode
+ ✔Pseudocode
 START
     INPUT marks
     IF marks >= 90 THEN
@@ -49,7 +48,7 @@ END
 
 
 
-<img src herf= "Exercise -2.png">
+!my diagram: ("Exercise -2.png")
 
 Exercise 3
 A program that:
@@ -58,8 +57,8 @@ Prompts user to enter 5 numbers
 Keeps a running total
 Displays the sum
 Ends program
-✔ Pseudocode
 
+✔ Pseudocode
 START
     total = 0
     REPEAT 5 TIMES
@@ -70,7 +69,7 @@ START
 END
 
 
-<img src herf= "Exercise -3.png">
+!my diagram: ("Exercise -3.png")
 
 
 Exercise 4
@@ -97,4 +96,4 @@ START
 END
 
 
-<img src herf= "Exercise -4.png">
+!my diagram: ("Exercise -4.png")
