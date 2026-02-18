@@ -48,7 +48,7 @@ END
 
 
 
-![image alt] (https://github.com/AEF21/algorithms-flowchart/blob/22f613b9516d1a67e642e68b47ed5c96cfd1ee11/Exercise%20-2.png)
+![image alt](https://github.com/AEF21/algorithms-flowchart/blob/ed4b4b2ada50c96572685083addd77a39b4cd355/Exercise%20-2.png)
 
 Exercise 3
 A program that:
