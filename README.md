@@ -8,7 +8,6 @@ If age is less than 18, display: "You are not eligible to vote."
 End the program.
 
 
-
 ✔Pseudocode
 
 START
@@ -20,7 +19,12 @@ START
     ENDIF
 END
 
+<<<<<<< HEAD
 ![flowcharts diagram](Exercise-1-1.png)
+=======
+![image alt](https://github.com/AEF21/algorithms-flowchart/blob/00a615b97b148ff64f144843e63d8b78edcef166/Exercise-1.png)
+
+>>>>>>> 6537c95933a643be9bfa0e0fbe824196425870dc
 
 
 Exercise 2
@@ -48,7 +52,7 @@ END
 
 
 
-!my diagram: ("Exercise -2.png")
+![image alt](https://github.com/AEF21/algorithms-flowchart/blob/ed4b4b2ada50c96572685083addd77a39b4cd355/Exercise%20-2.png)
 
 Exercise 3
 A program that:
@@ -69,7 +73,7 @@ START
 END
 
 
-!my diagram: ("Exercise -3.png")
+![image alt](https://github.com/AEF21/algorithms-flowchart/blob/08a351d15dc76e27476f5ed2d970d95e2ee26236/Exercise%20-3.png)
 
 
 Exercise 4
@@ -94,6 +98,9 @@ START
         PRINT "C is largest"
     ENDIF
 END
+
+
+![image alt](https://github.com/AEF21/algorithms-flowchart/blob/9312a4ee62eb5adeaf1467fc523d7ac2f9d3316b/Exercise%20-4.png)
 
 
 !my diagram: ("Exercise -4.png")
