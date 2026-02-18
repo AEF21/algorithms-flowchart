@@ -69,7 +69,7 @@ START
 END
 
 
-!my diagram: ("Exercise -3.png")
+![image alt](https://github.com/AEF21/algorithms-flowchart/blob/08a351d15dc76e27476f5ed2d970d95e2ee26236/Exercise%20-3.png)
 
 
 Exercise 4
