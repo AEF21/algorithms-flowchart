@@ -6,7 +6,7 @@ A program asks the user to enter their age.
 If age is 18 or older, display: "You are eligible to vote."
 If age is less than 18, display: "You are not eligible to vote."
 End the program.
-
+![image alt](https://github.com/AEF21/algorithms-flowchart/blob/00a615b97b148ff64f144843e63d8b78edcef166/Exercise-1.png)
 
 
 ✔Pseudocode
