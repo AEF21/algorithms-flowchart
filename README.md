@@ -20,7 +20,7 @@ START
     ENDIF
 END
 
-!my diagram: ("Exercise-1.png")
+![flowcharts diagram](Exercise-1-1.png)
 
 
 Exercise 2
