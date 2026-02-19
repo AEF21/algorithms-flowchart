@@ -19,12 +19,10 @@ START
     ENDIF
 END
 
-<<<<<<< HEAD
-![flowcharts diagram](Exercise-1-1.png)
 =======
 ![image alt](https://github.com/AEF21/algorithms-flowchart/blob/00a615b97b148ff64f144843e63d8b78edcef166/Exercise-1.png)
 
->>>>>>> 6537c95933a643be9bfa0e0fbe824196425870dc
+>>>>>>> 
 
 
 Exercise 2
@@ -101,6 +99,3 @@ END
 
 
 ![image alt](https://github.com/AEF21/algorithms-flowchart/blob/9312a4ee62eb5adeaf1467fc523d7ac2f9d3316b/Exercise%20-4.png)
-
-
-!my diagram: ("Exercise -4.png")
